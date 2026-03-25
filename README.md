@@ -7,6 +7,7 @@ Dedicated and self-motivated B.Tech IT student with a strong interest in emergin
 
 ## 🏅 Certifications
 ![Databricks Certified](https://img.shields.io/badge/Databricks-Certified-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Claude AI Certified](https://img.shields.io/badge/Claude%20AI-Certified-5A4FCF?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ## 💻 Tech Stack:
 
