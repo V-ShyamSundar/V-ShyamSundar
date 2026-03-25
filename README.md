@@ -1,6 +1,5 @@
 # 💫 About Me:
-Dedicated and self-motivated B.Tech IT student with a strong interest in emerging technologies, including Artificial<br>Intelligence, Cyber Security, and broader IT domains. Known for being a fast learner, adept at research, and thriving<br>in collaborative environments.
-
+Data engineer and AI architect specializing in Databricks, scalable data pipelines, and AI architecture, transforming complex data challenges into intelligent systems that drive business insights. A dedicated and self-motivated tech professional with a strong passion for emerging technologies and adept at research.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HVTwRmfshN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shyamsundar_gamer_2099) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/v-shyam-sundar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25188316) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/venomjoker2099) 
